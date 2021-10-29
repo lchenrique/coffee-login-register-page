@@ -1,0 +1,13 @@
+.card {
+  position: relative;
+  padding: 1rem;
+  background: hsla(10, 76%, 13%, 0.186);
+  box-shadow: 0 8px 32px 0 rgba(44, 11, 1, 0.662);
+  backdrop-filter: blur(8.5px);
+  -webkit-backdrop-filter: blur(8.5px);
+  border-radius: 10px;
+  border: 1px solid rgba(123, 87, 76, 0.331);
+  width: 100%;
+  max-width: 400px;
+  min-height: 300px;
+}

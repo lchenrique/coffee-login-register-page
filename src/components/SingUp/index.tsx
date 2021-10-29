@@ -47,7 +47,6 @@ function SingUp({
               fullWidth
               id="standard-basic"
               label="Login"
-              type="password"
               variant="outlined"
               size={"small" as any}
             />
